@@ -1,0 +1,2 @@
+# Ternario
+FQexp 
